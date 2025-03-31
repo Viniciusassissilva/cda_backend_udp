@@ -1,0 +1,226 @@
+Requisico de ('127.0.0.1', 55694): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 55694) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.15s | Throughput: 41.33 Mbps
+[HASH] SHA-256 enviado
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 61640): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 61640) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.14s | Throughput: 44.25 Mbps
+[HASH] SHA-256 enviado
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 56133): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 56133) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.13s | Throughput: 45.98 Mbps
+[HASH] SHA-256 enviado
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 62608): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 62608) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.14s | Throughput: 44.55 Mbps
+[HASH] SHA-256 enviado
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 58176): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 58176) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 210.36 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 62008): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 62008) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.12s | Throughput: 52.19 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 63867): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 63867) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 217.93 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 50036): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 50036) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 197.34 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 64810): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 64810) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.04s | Throughput: 165.34 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 56856): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 56856) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 190.77 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 63850): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 63850) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 210.95 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 53823): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 53823) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 211.04 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 51735): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 51735) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 210.94 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[HASH] Hash SHA-256 enviado (tentativa 3)
+[HASH] Hash SHA-256 enviado (tentativa 4)
+[HASH] Hash SHA-256 enviado (tentativa 5)
+[HASH] Falha ao confirmar recebimento do hash
+Requisico de ('127.0.0.1', 60507): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 60507) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 226.09 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+[HASH] Hash SHA-256 enviado (tentativa 2)
+[ERRO] [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Requisico de ('127.0.0.1', 62596): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 62596) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 210.95 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisico de ('127.0.0.1', 58354): DOWNLOAD:TP - RC2 (4).pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 58354) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 218.48 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisico de ('127.0.0.1', 56027): DOWNLOAD:TP - RC2 (4).pdf | Perda: True
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 56027) | perda: True
+Servidor encerrado manualmente
+Requisico de ('127.0.0.1', 61504): DOWNLOAD:TP - RC2 (4).pdf | Perda: True
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 61504) | perda: True
+Servidor encerrado manualmente
+Requisico de ('127.0.0.1', 54174): DOWNLOAD:TP - RC2 (4).pdf | Perda: True
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\TP - RC2 (4).pdf para ('127.0.0.1', 54174) | perda: True
+DOWNLOAD finalizado | Retransmissoes: 37 | Pacotes perdidos: 37 | Tempo: 74.46s | Throughput: 0.08 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisico de ('127.0.0.1', 59856): Lista Haskell (1).pdf | Perda: False
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+[ERRO] 'utf-8' codec can't decode byte 0xc4 in position 12: invalid continuation byte
+Requisição de ('127.0.0.1', 57338): TP - RC2 (4) (15).pdf | Perda: False
+Requisição de ('127.0.0.1', 57379): TP - RC2 (4) (15).pdf | Perda: False
+Requisição de ('127.0.0.1', 62598): TP - RC2 (4) (15).pdf | Perda: False
+Requisição de ('127.0.0.1', 55819): UPLOAD:TP - RC2 (4) (15).pdf | Perda: False
+UPLOAD iniciado: TP - RC2 (4) (15).pdf de ('127.0.0.1', 55819) | perda: False
+UPLOAD finalizado | Pacotes perdidos (simulados): 0
+Requisição de ('127.0.0.1', 49785): TP - RC2 (4) (15)_2025-03-31_02-11-18.pdf | Perda: False
+Requisição de ('127.0.0.1', 56866): TP - RC2 (4)_2025-03-31_02-13-21.pdf | Perda: False
+Requisição de ('127.0.0.1', 55181): UPLOAD:teste_local.pdf | Perda: False
+UPLOAD iniciado: teste_local.pdf de ('127.0.0.1', 55181) | perda: False
+UPLOAD finalizado | Pacotes perdidos (simulados): 0
+Requisição de ('127.0.0.1', 56785): teste_local_2025-03-31_02-14-25.pdf | Perda: False
+Requisição de ('127.0.0.1', 56832): teste_local_2025-03-31_02-19-12.pdf | Perda: False
+Requisição de ('127.0.0.1', 55127): teste_local.pdf | Perda: False
+Requisição de ('127.0.0.1', 64574): DOWNLOAD:teste_local.pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\teste_local.pdf para ('127.0.0.1', 64574) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 218.48 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisição de ('127.0.0.1', 61366): UPLOAD:teste_local_2.pdf | Perda: False
+UPLOAD iniciado: teste_local_2.pdf de ('127.0.0.1', 61366) | perda: False
+UPLOAD finalizado | Pacotes perdidos (simulados): 0
+Requisição de ('127.0.0.1', 52043): DOWNLOAD:teste_local_2.pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\teste_local_2.pdf para ('127.0.0.1', 52043) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.04s | Throughput: 169.94 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisição de ('127.0.0.1', 51622): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 55286): DOWNLOAD:teste_local.pdf | Perda: False
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\teste_local.pdf para ('127.0.0.1', 55286) | perda: False
+DOWNLOAD finalizado | Retransmissoes: 0 | Pacotes perdidos: 0 | Tempo: 0.03s | Throughput: 210.94 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisição de ('127.0.0.1', 52643): DOWNLOAD:teste_local_2.pdf | Perda: True
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\teste_local_2.pdf para ('127.0.0.1', 52643) | perda: True
+DOWNLOAD finalizado | Retransmissoes: 49 | Pacotes perdidos: 49 | Tempo: 98.61s | Throughput: 0.06 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisição de ('127.0.0.1', 63054): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 58160): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 54203): DOWNLOAD:teste_local.pdf | Perda: True
+DOWNLOAD iniciado: C:\Users\vinic\Documents\UDP_REDES2\udp\uploads\teste_local.pdf para ('127.0.0.1', 54203) | perda: True
+DOWNLOAD finalizado | Retransmissoes: 46 | Pacotes perdidos: 46 | Tempo: 93.63s | Throughput: 0.07 Mbps
+[HASH] Hash SHA-256 enviado (tentativa 1)
+Requisição de ('127.0.0.1', 63874): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 58455): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 57408): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 56909): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
+Requisição de ('127.0.0.1', 58034): LISTAR_ARQUIVOS | Perda: True
+[LISTAGEM] Lista enviada com sucesso
